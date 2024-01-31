@@ -12,7 +12,8 @@ Term: Fall 2023
 + Projec title: Processing of the HappyDB corpus data into the processed moments data. 
 + This project is conducted by [Boyu Li]
 
-+ Project summary: Findings: 
++ Project summary:
++ Findings: 
 
 The top 10 most frequently occurring words in described moments are friend, day, time, family, watched, home, played, feel, finally, and found. It seems that people feel happy when they spend time with the friends and/or family, which is as expected of us as social beings. There are also verbs in the top 10 words such as watched, played, and found. Activities such as watching and playing can indeed be associated with being happy. Meanwhile, the word found could be the feeling of happiness when a person finally founds something after some time.
 
